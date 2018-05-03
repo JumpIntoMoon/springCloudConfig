@@ -1,6 +1,6 @@
 server:
   port: 8810
-  time: update version10000
+  time: update version10
 
 management:
   endpoints:
