@@ -1,6 +1,5 @@
 server:
   time: update version1123
-  port: 8810
 
 #默认关闭了bus请求url，因此需要打开才能使用，下面为打开方式
 management:
